@@ -10,12 +10,12 @@ using Microsoft.Bot.Builder;
 using Microsoft.Bot.Schema;
 using CoCoMicrosoftBotFrameworkSDK;
 
-namespace MyEchoBot.Bots
+namespace CoCoExampleBot.Bots
 {
     
-    public class EchoBot : CoCoActiviyHandler
+    public class ExampleBot : CoCoActiviyHandler
     {
-        public EchoBot(ConversationState conversationState): base(conversationState)
+        public ExampleBot(ConversationState conversationState): base(conversationState)
         {
             this.ConversationState = conversationState;
         }

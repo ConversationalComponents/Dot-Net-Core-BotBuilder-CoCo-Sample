@@ -6,7 +6,7 @@
 using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 
-namespace MyEchoBot
+namespace CoCoExampleBot
 {
     public class Program
     {
