@@ -1,4 +1,4 @@
-# MyEchoBot
+# CoCoExampleBot
 
 Bot Framework v4 echo bot sample.
 
@@ -15,11 +15,11 @@ This bot has been created using [Bot Framework](https://dev.botframework.com), i
 
 ## To try this sample
 
-- In a terminal, navigate to `MyEchoBot`
+- In a terminal, navigate to `CoCoExampleBot`
 
     ```bash
     # change into project folder
-    cd MyEchoBot
+    cd CoCoExampleBot
     ```
 
 - Run the bot from a terminal or from Visual Studio, choose option A or B.
