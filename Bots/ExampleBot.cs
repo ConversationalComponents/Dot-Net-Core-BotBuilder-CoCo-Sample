@@ -41,7 +41,7 @@ namespace CoCoExampleBot.Bots
                 if (member.Id != turnContext.Activity.Recipient.Id)
                 {
                     await turnContext.SendActivityAsync(MessageFactory.Text(welcomeText, welcomeText), cancellationToken);
-                    ActivateComponent(turnContext, "namer_vp3");
+                    ActivateComponent(turnContext, "tobi_glue_vp3");
                 }
             }
         }
